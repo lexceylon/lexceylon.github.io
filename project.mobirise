@@ -49,7 +49,7 @@
     "progress.html": {
       "settings": {
         "title": "LexCeylon - Progress",
-        "meta_descr": "",
+        "meta_descr": "As Sri Lanka’s premier legal repository., our goal is to empower people through knowledge, information and legal know how to ensure that the Rule of Law prevails. Access all vital legal literature of Sri Lanka instantly on one platform.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -617,7 +617,7 @@
       "settings": {
         "main": true,
         "title": "LexCeylon - Legal Repository ",
-        "meta_descr": "Lex Ceylon is Sri Lanka’s premier legal repository. Our goal is to empower people through knowledge, information and legal know how to ensure that the Rule of Law prevails. We aim to generate a widespread interest in law and its related fields to bring about positive change. We deliver powerful decision making aids where you can use the available legal material to postulate a possible outcome for a similar future occurrence. \n",
+        "meta_descr": "As Sri Lanka’s premier legal repository., our goal is to empower people through knowledge, information and legal know how to ensure that the Rule of Law prevails. Access all vital legal literature of Sri Lanka instantly on one platform.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -1227,7 +1227,7 @@
     "nlr.html": {
       "settings": {
         "title": "LexCeylon - New Law Reports",
-        "meta_descr": "Lex Ceylon is Sri Lanka’s premier legal repository. Our goal is to empower people through knowledge, information and legal know how to ensure that the Rule of Law prevails. We aim to generate a widespread interest in law and its related fields to bring about positive change. We deliver powerful decision making aids where you can use the available legal material to postulate a possible outcome for a similar future occurrence. \n",
+        "meta_descr": "Download all cases of the New Law Reports through Lex Ceylon, Sri Lanka’s premier legal repository. All content of the website is available to you, absolutley free on any device.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1914,7 +1914,7 @@
     "slr.html": {
       "settings": {
         "title": "LexCeylon - Sri Lanka Law Reports",
-        "meta_descr": "Lex Ceylon is Sri Lanka’s premier legal repository. Our goal is to empower people through knowledge, information and legal know how to ensure that the Rule of Law prevails. We aim to generate a widespread interest in law and its related fields to bring about positive change. We deliver powerful decision making aids where you can use the available legal material to postulate a possible outcome for a similar future occurrence. \n",
+        "meta_descr": "Download all cases of Sri Lanka Law Reports through Lex Ceylon, Sri Lanka’s premier legal repository. All content of the website is available to you absolutley free on any device.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
