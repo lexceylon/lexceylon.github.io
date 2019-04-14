@@ -9,9 +9,6 @@
 		<loc>http://www.lexceylon.com/nlr.html</loc>
 	</url>
 	<url>
-		<loc>http://www.lexceylon.com/slr.html</loc>
-	</url>
-	<url>
 		<loc>http://www.lexceylon.com/404.html</loc>
 	</url>
 	<url>
@@ -31,5 +28,8 @@
 	</url>
 	<url>
 		<loc>http://www.lexceylon.com/aer.html</loc>
+	</url>
+	<url>
+		<loc>http://www.lexceylon.com/slr.html</loc>
 	</url>
 </urlset>
