@@ -15,9 +15,6 @@
 		<loc>http://www.lexceylon.com/white.html</loc>
 	</url>
 	<url>
-		<loc>http://www.lexceylon.com/test.html</loc>
-	</url>
-	<url>
 		<loc>http://www.lexceylon.com/black.html</loc>
 	</url>
 	<url>
@@ -31,5 +28,8 @@
 	</url>
 	<url>
 		<loc>http://www.lexceylon.com/slr.html</loc>
+	</url>
+	<url>
+		<loc>http://www.lexceylon.com/nlrtemplate.html</loc>
 	</url>
 </urlset>
