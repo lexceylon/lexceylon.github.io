@@ -1904,7 +1904,7 @@ body {
   color: #ffffff;
 }
 .cid-rd81oG1pNc {
-  background-image: url("../../../assets/images/a4411dec-c2fc-4c2f-bf40-b38c56958875-2000x2667.jpg");
+  background-color: #232323;
 }
 .cid-rd81oG1pNc H1 {
   color: #ffffff;
@@ -1921,12 +1921,12 @@ body {
 .cid-reamFxX7xd {
   padding-top: 75px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/sc-crop-2000x1163.png");
+  background-color: #20080e;
 }
 .cid-reaCzkcpZ5 {
   padding-top: 60px;
   padding-bottom: 75px;
-  background-image: url("../../../assets/images/dchc-2000x1127.png");
+  background-color: #4f4943;
 }
 .cid-rd83itTuBi {
   padding-top: 30px;
@@ -2344,7 +2344,7 @@ body {
   color: #ffffff !important;
 }
 .cid-ref9wEahMS {
-  background-image: url("../../../assets/images/img-0316-copy-2000x2667.jpg");
+  background-color: #232323;
 }
 .cid-ref9wEahMS H1 {
   color: #ffffff;
@@ -4312,7 +4312,7 @@ body {
 .cid-rnRCkgq6w8 {
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/supreme-court-700-1920x700.jpg");
+  background-color: #232323;
 }
 .cid-rnRCkgq6w8 H1 {
   color: #ffffff;
@@ -5144,7 +5144,7 @@ body {
 .cid-refI7oQNaL {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/img-0316-copy-2000x2667.jpg");
+  background-color: #232323;
 }
 .cid-refI7oQNaL H1 {
   color: #ffffff;
@@ -5593,4 +5593,44 @@ body {
 .cid-reR2rT0Kdk .mbr-text,
 .cid-reR2rT0Kdk .mbr-section-btn {
   color: #232323;
+}
+.cid-rd81oG1pNc {
+  background-image: url("../../../assets/images/a4411dec-c2fc-4c2f-bf40-b38c56958875-2000x2667.jpg");
+}
+.cid-rd81oG1pNc H1 {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rd81oG1pNc .mbr-text,
+.cid-rd81oG1pNc .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rd81oG1pNc H3 {
+  text-align: center;
+}
+.cid-reamFxX7xd {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/sc-crop-2000x1163.png");
+}
+.cid-reaCzkcpZ5 {
+  padding-top: 60px;
+  padding-bottom: 75px;
+  background-image: url("../../../assets/images/dchc-2000x1127.png");
+}
+.cid-rd83itTuBi {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #000000, #000000);
+}
+.cid-rd83itTuBi .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ffffff;
+}
+.cid-rd83itTuBi .social-list a:focus {
+  text-decoration: none;
+}
+.cid-rd83itTuBi H2 {
+  color: #ffffff;
 }
